@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("chage 1 time 2016310464 À±ÇüÈ£");
+    printf("chage 3 time 2016310464 Yoon hyeongho \n");
+    printf("hello\n");
     printf("hello world \n");
     
 }
